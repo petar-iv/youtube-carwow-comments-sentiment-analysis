@@ -1,0 +1,265 @@
+{
+  "Alfa Romeo Stelvio SUV 2018": {
+    "negative": 2,
+    "positive": 1396
+  },
+  "Audi A4 2020": {
+    "negative": 21,
+    "positive": 2839
+  },
+  "Audi Q5 SUV 2018": {
+    "negative": 12,
+    "positive": 2133
+  },
+  "Audi S6 2020": {
+    "negative": 20,
+    "positive": 3571
+  },
+  "BMW 1 Series 2018 hatchback": {
+    "negative": 5,
+    "positive": 1843
+  },
+  "BMW 3 Series Saloon 2018": {
+    "positive": 1535
+  },
+  "BMW 5 Series Saloon 2010-2016 (F10)": {
+    "negative": 5,
+    "positive": 1309
+  },
+  "BMW 6 Series GT 2019": {
+    "negative": 4,
+    "positive": 3038
+  },
+  "Citroen C3 2018": {
+    "negative": 21,
+    "positive": 751
+  },
+  "Citroen C5 Aircross SUV 2020": {
+    "negative": 4,
+    "positive": 1234
+  },
+  "DS 3 (Citroen) Hatchback 2018": {
+    "positive": 1030
+  },
+  "DS 7 Crossback 2018": {
+    "positive": 1992
+  },
+  "Dacia Duster SUV 2019": {
+    "negative": 19,
+    "positive": 3231
+  },
+  "Ford Fiesta 2019": {
+    "negative": 12,
+    "positive": 1218
+  },
+  "Ford Focus 2020": {
+    "negative": 8,
+    "positive": 2001
+  },
+  "Honda CR-V SUV 2020": {
+    "negative": 6,
+    "positive": 1669
+  },
+  "Honda Civic 2018": {
+    "negative": 11,
+    "positive": 1966
+  },
+  "Hyundai Santa Fe SUV 2020": {
+    "negative": 3,
+    "positive": 1709
+  },
+  "Hyundai Tucson SUV 2019": {
+    "positive": 1158
+  },
+  "Hyundai i10 2018": {
+    "negative": 18,
+    "positive": 1847
+  },
+  "Hyundai i20 2018": {
+    "negative": 3,
+    "positive": 979
+  },
+  "Jaguar E-Pace SUV 2019": {
+    "positive": 888
+  },
+  "Jeep Gladiator 2020": {
+    "positive": 1316
+  },
+  "Kia Carens 7 Seater 2018": {
+    "positive": 814
+  },
+  "Kia Ceed 2020": {
+    "negative": 6,
+    "positive": 1296
+  },
+  "Kia Proceed 2020": {
+    "negative": 3,
+    "positive": 2042
+  },
+  "Kia Sorento SUV 2019": {
+    "positive": 1138
+  },
+  "Kia Sportage SUV 2020": {
+    "negative": 2,
+    "positive": 822
+  },
+  "Kia e-Niro SUV 2020": {
+    "positive": 1134
+  },
+  "Land Rover Discovery Sport SUV 2020": {
+    "negative": 9,
+    "positive": 1939
+  },
+  "Mazda 3 2020": {
+    "negative": 2,
+    "positive": 2837
+  },
+  "Mazda 6 2020": {
+    "negative": 3,
+    "positive": 1886
+  },
+  "Mercedes C-Class 2020": {
+    "positive": 2210
+  },
+  "Mercedes CLA 2020": {
+    "negative": 5,
+    "positive": 2075
+  },
+  "Mercedes E-Class Saloon 2018": {
+    "positive": 1920
+  },
+  "Mitsubishi Outlander PHEV SUV 2019": {
+    "negative": 2,
+    "positive": 993
+  },
+  "Nissan Juke 2019": {
+    "negative": 19,
+    "positive": 3059
+  },
+  "Nissan Leaf 2018 EV": {
+    "negative": 9,
+    "positive": 1499
+  },
+  "Peugeot 3008 2017 SUV": {
+    "positive": 1397
+  },
+  "Peugeot 3008 SUV 2018": {
+    "negative": 3,
+    "positive": 1383
+  },
+  "Peugeot 5008 SUV 2017": {
+    "negative": 14,
+    "positive": 2086
+  },
+  "Peugeot 508 2020": {
+    "negative": 13,
+    "positive": 3478
+  },
+  "Range Rover Evoque SUV 2020": {
+    "negative": 2,
+    "positive": 1954
+  },
+  "Range Rover Sport SUV 2019": {
+    "negative": 7,
+    "positive": 2044
+  },
+  "Renault Megane 2018 hatchback": {
+    "negative": 12,
+    "positive": 1019
+  },
+  "SEAT Ateca 2018 SUV": {
+    "positive": 5666
+  },
+  "SEAT Tarraco SUV 2020": {
+    "positive": 1098
+  },
+  "Skoda Fabia 2019": {
+    "negative": 14,
+    "positive": 1920
+  },
+  "Skoda Kamiq SUV 2020": {
+    "positive": 766
+  },
+  "Skoda Karoq SUV 2018": {
+    "negative": 2,
+    "positive": 1072
+  },
+  "Skoda Kodiaq SUV 2018 5 seat": {
+    "positive": 1885
+  },
+  "Skoda Octavia 2018": {
+    "positive": 952
+  },
+  "Suzuki Ignis 2018": {
+    "negative": 5,
+    "positive": 1588
+  },
+  "Toyota C-HR 2020": {
+    "negative": 45,
+    "positive": 14070
+  },
+  "Toyota Camry 2020": {
+    "negative": 4,
+    "positive": 2988
+  },
+  "Toyota Corolla 2020": {
+    "negative": 12,
+    "positive": 3120
+  },
+  "Toyota Land Cruiser V8": {
+    "negative": 14,
+    "positive": 3429
+  },
+  "Toyota Prius 2018 hybrid": {
+    "negative": 12,
+    "positive": 2026
+  },
+  "Toyota RAV4 2018 SUV": {
+    "negative": 4,
+    "positive": 893
+  },
+  "Toyota RAV4 SUV 2019": {
+    "negative": 9,
+    "positive": 2220
+  },
+  "Toyota Yaris 2019": {
+    "negative": 17,
+    "positive": 2373
+  },
+  "Vauxhall (Opel) Astra K Hatchback": {
+    "negative": 27,
+    "positive": 1401
+  },
+  "Vauxhall (Opel) Corsa 2018": {
+    "negative": 17,
+    "positive": 829
+  },
+  "Vauxhall (Opel) Insignia Grand Sport 2020": {
+    "negative": 6,
+    "positive": 2434
+  },
+  "Volkswagen Golf 2018": {
+    "negative": 3,
+    "positive": 1185
+  },
+  "Volkswagen Golf MK8": {
+    "negative": 6,
+    "positive": 4850
+  },
+  "Volkswagen Polo 2019": {
+    "negative": 8,
+    "positive": 1512
+  },
+  "Volkswagen T-Cross SUV 2020": {
+    "negative": 16,
+    "positive": 2462
+  },
+  "Volkswagen T-Roc 2018 SUV": {
+    "negative": 8,
+    "positive": 1259
+  },
+  "Volkswagen Up! 2018": {
+    "negative": 3,
+    "positive": 995
+  }
+}

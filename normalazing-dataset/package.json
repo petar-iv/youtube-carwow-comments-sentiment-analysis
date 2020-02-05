@@ -1,0 +1,7 @@
+{
+  "name": "normalizing-dataset",
+  "version": "1.0.0",
+  "dependencies": {
+    "line-reader": "0.4.0"
+  }
+}
